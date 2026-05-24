@@ -62,7 +62,7 @@
 <body>
 
     <div class="container">
-        <h1>Welcome to AWS DevOps Journey</h1>
+        <h1>Welcome to AWS DevOps Journey Suma's world</h1>
 
         <p>
             <span class="highlight">Sumalatha Yedaroor</span> is learning 
