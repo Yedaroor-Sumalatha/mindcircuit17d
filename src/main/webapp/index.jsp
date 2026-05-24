@@ -65,7 +65,7 @@
         <h1>Welcome to AWS DevOps Journey</h1>
 
         <p>
-            <span class="highlight">Sumalatha</span> is learning 
+            <span class="highlight">Sumalatha Yedaroor</span> is learning 
             <span class="highlight">AWS - DevOps</span>
         </p>
 
